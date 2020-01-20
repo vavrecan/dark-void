@@ -1,0 +1,31 @@
+<idea-plugin>
+  <id>com.vavrecan.darkvoid</id>
+  <name>Dark Void Theme</name>
+  <version>1.4.0</version>
+  <vendor email="vavrecan@gmail.com">Marek Vavrecan</vendor>
+
+  <description><![CDATA[
+    ]]></description>
+
+  <change-notes><![CDATA[
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="191.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="5e6c99b8-4212-4296-a225-d6c461ba9f14" path="/Dark_Void.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

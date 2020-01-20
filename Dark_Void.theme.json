@@ -1,0 +1,66 @@
+{
+  "name": "Dark Void",
+  "dark": true,
+  "author": "Marek Vavrecan",
+  "editorScheme": "/Dark_Void.icls",
+  "ui": {
+    "*": {
+      "background": "#1b1b1b",
+      "disabledBackground": "#1b1b1b",
+      "inactiveBackground": "#1b1b1c",
+
+      "selectionBackground": "#151515",
+      "selectionInactiveBackground": "#151516",
+
+      "lightSelectionBackground": "#151514",
+      "lightSelectionInactiveBackground": "#151513",
+
+      "borderColor": "#292929",
+      "disabledBorderColor": "#333336",
+
+      "separatorForeground": "#292929",
+      "separatorColor": "#292929",
+      "lineSeparatorColor": "#292929"
+    },
+
+    "Borders": {
+      "color": "#292929",
+      "ContrastBorderColor": "#292929"
+    },
+
+    "Tree.rowHeight": 24,
+
+    "VersionControl": {
+      "Log.Commit": {
+        "currentBranchBackground": "#2E3D5A",
+        "unmatchedForeground": "#727380"
+      },
+      "FileHistory.Commit.selectedBranchBackground": "#2E3D5A"
+    },
+
+    "DefaultTabs": {
+      "hoverBackground": "#00000000",
+      "underlineColor": "#607d8b",
+      "underlinedTabBackground": "#323232"
+    },
+
+    "SearchEverywhere": {
+      "Tab": {
+        "selectedForeground": "#CFD2D5",
+        "selectedBackground": "#151514"
+      }
+    },
+
+    "EditorTabs": {
+      "selectedBackground": "#37383b",
+      "inactiveMaskColor": "#00000033",
+      "underlineColor": "#607d8b",
+      "underlinedTabBackground": "#323232",
+      "underlinedTabForeground": "#9fcde4"
+    },
+
+    "ToolWindow.HeaderTab": {
+      "underlinedTabBackground": "#151514"
+    }
+  }
+}
