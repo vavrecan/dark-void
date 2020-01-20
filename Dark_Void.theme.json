@@ -2,7 +2,7 @@
   "name": "Dark Void",
   "dark": true,
   "author": "Marek Vavrecan",
-  "editorScheme": "/Dark_Void.icls",
+  "editorScheme": "/Dark Void.icls",
   "ui": {
     "*": {
       "background": "#1b1b1b",

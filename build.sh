@@ -1,2 +1,2 @@
 #!/bin/bash
-zip dark-void.jar Dark_Void* META-INF/*
+zip theme.jar Dark* META-INF/*

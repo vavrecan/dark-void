@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.vavrecan.darkvoid</id>
   <name>Dark Void Theme</name>
-  <version>1.4.0</version>
+  <version>1.5.0</version>
   <vendor email="vavrecan@gmail.com">Marek Vavrecan</vendor>
 
   <description><![CDATA[
