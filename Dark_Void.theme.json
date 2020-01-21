@@ -2,7 +2,7 @@
   "name": "Dark Void",
   "dark": true,
   "author": "Marek Vavrecan",
-  "editorScheme": "/Dark Void.icls",
+  "editorScheme": "/Dark_Void.icls",
   "ui": {
     "*": {
       "background": "#1b1b1b",
@@ -21,6 +21,24 @@
       "separatorForeground": "#292929",
       "separatorColor": "#292929",
       "lineSeparatorColor": "#292929"
+    },
+
+    "ScrollBar": {
+      "Transparent": {
+        "trackColor": "#E6E6E600",
+        "thumbColor": "#1B1B1BBA",
+        "thumbBorderColor": "#161616",
+        "hoverTrackColor": "#E6E6E65A",
+        "hoverThumbColor": "#1B1B1BBA",
+        "hoverThumbBorderColor": "#161616"
+      },
+      "trackColor": "#1B1B1BBA",
+      "thumbColor": "#1B1B1BBA",
+      "thumbBorderColor": "#161616",
+      "hoverTrackColor": "#1B1B1BBA",
+      "hoverThumbColor": "#1B1B1BBA",
+      "hoverThumbBorderColor": "#161616",
+      "background": "#1B1B1BBA"
     },
 
     "Borders": {
@@ -55,8 +73,7 @@
       "selectedBackground": "#37383b",
       "inactiveMaskColor": "#00000033",
       "underlineColor": "#607d8b",
-      "underlinedTabBackground": "#323232",
-      "underlinedTabForeground": "#9fcde4"
+      "underlinedTabBackground": "#323232"
     },
 
     "ToolWindow.HeaderTab": {
